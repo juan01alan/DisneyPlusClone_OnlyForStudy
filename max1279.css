@@ -333,8 +333,8 @@ a{
       cursor: pointer;
       border: 0;
       outline: 0;
-      color: black;
-      background: white;
+      color: white;
+      background: royalblue;
       width: 100%;
       padding:10px 2%;
       font-size: 16px;
@@ -359,9 +359,9 @@ a{
       display: none;
       font-size: 16px;
       margin: 0;
-      color: black;
+      color: white;
+      background: royalblue;
       width: 100%;
-      background: white;
   }
   .Clicked + .hidderfaq{
       display: block;

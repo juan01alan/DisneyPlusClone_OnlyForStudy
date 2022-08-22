@@ -336,8 +336,8 @@ a{
       cursor: pointer;
       border: 0;
       outline: 0;
-      color: black;
-      background: white;
+      color: white;
+      background: royalblue;
       width: 100%;
       padding:8px 2%;
       font-size: 10px;
@@ -363,9 +363,9 @@ a{
       display: none;
       font-size: 10px;
       margin: 0;
-      color: black;
+      color: white;
+      background: royalblue;
       width: 100%;
-      background: white;
   }
   .Clicked + .hidderfaq{
       display: block;
