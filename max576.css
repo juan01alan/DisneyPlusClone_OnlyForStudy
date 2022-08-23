@@ -109,7 +109,7 @@ a{
       margin: 0 auto;
       justify-content: center;
       margin-top: auto;
-      margin-bottom: 25px;
+      margin-bottom: 80px;
       animation: hint 1s alternate infinite;
   }
   @keyframes hint {
