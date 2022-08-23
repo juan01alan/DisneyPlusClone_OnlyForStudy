@@ -349,7 +349,7 @@ a{
   }
   .sec5{
       width: 100%;
-      min-height: 50vh;
+      min-height: 40vh;
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -374,7 +374,8 @@ a{
   
   footer{
     margin-top: 1vh;
-      height: 6vh;
+    min-height: 6vh;
+    height: fit-content;
       padding: 1vh 2%;
       display: grid;
       width: 100%;
