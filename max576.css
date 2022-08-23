@@ -260,8 +260,10 @@ a{
   }
   
   .sec3{
-    border: 1px solid royalblue;
-      height: 30vh;
+    overflow: hidden;
+    border-top: 1px solid royalblue;
+      height: 25vh;
+      border-bottom: 1px solid royalblue;
   }
   
   .sec4{
@@ -397,6 +399,7 @@ a{
   .listfooter{
       display: flex;
       height: 100%;
+      flex-wrap: wrap;
       justify-content: center;
       width: 80%;
       margin: 10px auto;
